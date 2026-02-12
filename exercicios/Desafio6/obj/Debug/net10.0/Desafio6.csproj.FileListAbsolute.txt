@@ -1,0 +1,15 @@
+/workspaces/CursoAlura/exercicios/Desafio6/obj/Debug/net10.0/Desafio6.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CursoAlura/exercicios/Desafio6/obj/Debug/net10.0/Desafio6.AssemblyInfoInputs.cache
+/workspaces/CursoAlura/exercicios/Desafio6/obj/Debug/net10.0/Desafio6.AssemblyInfo.cs
+/workspaces/CursoAlura/exercicios/Desafio6/obj/Debug/net10.0/Desafio6.csproj.CoreCompileInputs.cache
+/workspaces/CursoAlura/exercicios/Desafio6/obj/Debug/net10.0/Desafio6.sourcelink.json
+/workspaces/CursoAlura/exercicios/Desafio6/bin/Debug/net10.0/Desafio6
+/workspaces/CursoAlura/exercicios/Desafio6/bin/Debug/net10.0/Desafio6.deps.json
+/workspaces/CursoAlura/exercicios/Desafio6/bin/Debug/net10.0/Desafio6.runtimeconfig.json
+/workspaces/CursoAlura/exercicios/Desafio6/bin/Debug/net10.0/Desafio6.dll
+/workspaces/CursoAlura/exercicios/Desafio6/bin/Debug/net10.0/Desafio6.pdb
+/workspaces/CursoAlura/exercicios/Desafio6/obj/Debug/net10.0/Desafio6.dll
+/workspaces/CursoAlura/exercicios/Desafio6/obj/Debug/net10.0/refint/Desafio6.dll
+/workspaces/CursoAlura/exercicios/Desafio6/obj/Debug/net10.0/Desafio6.pdb
+/workspaces/CursoAlura/exercicios/Desafio6/obj/Debug/net10.0/Desafio6.genruntimeconfig.cache
+/workspaces/CursoAlura/exercicios/Desafio6/obj/Debug/net10.0/ref/Desafio6.dll

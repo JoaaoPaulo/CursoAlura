@@ -1,0 +1,15 @@
+/workspaces/CursoAlura/exercicios/Desafio3/obj/Debug/net10.0/Desafio3.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CursoAlura/exercicios/Desafio3/obj/Debug/net10.0/Desafio3.AssemblyInfoInputs.cache
+/workspaces/CursoAlura/exercicios/Desafio3/obj/Debug/net10.0/Desafio3.AssemblyInfo.cs
+/workspaces/CursoAlura/exercicios/Desafio3/obj/Debug/net10.0/Desafio3.csproj.CoreCompileInputs.cache
+/workspaces/CursoAlura/exercicios/Desafio3/obj/Debug/net10.0/Desafio3.sourcelink.json
+/workspaces/CursoAlura/exercicios/Desafio3/bin/Debug/net10.0/Desafio3
+/workspaces/CursoAlura/exercicios/Desafio3/bin/Debug/net10.0/Desafio3.deps.json
+/workspaces/CursoAlura/exercicios/Desafio3/bin/Debug/net10.0/Desafio3.runtimeconfig.json
+/workspaces/CursoAlura/exercicios/Desafio3/bin/Debug/net10.0/Desafio3.dll
+/workspaces/CursoAlura/exercicios/Desafio3/bin/Debug/net10.0/Desafio3.pdb
+/workspaces/CursoAlura/exercicios/Desafio3/obj/Debug/net10.0/Desafio3.dll
+/workspaces/CursoAlura/exercicios/Desafio3/obj/Debug/net10.0/refint/Desafio3.dll
+/workspaces/CursoAlura/exercicios/Desafio3/obj/Debug/net10.0/Desafio3.pdb
+/workspaces/CursoAlura/exercicios/Desafio3/obj/Debug/net10.0/Desafio3.genruntimeconfig.cache
+/workspaces/CursoAlura/exercicios/Desafio3/obj/Debug/net10.0/ref/Desafio3.dll
