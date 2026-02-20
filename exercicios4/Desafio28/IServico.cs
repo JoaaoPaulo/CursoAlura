@@ -1,0 +1,4 @@
+interface IServico
+{
+    void ExecutarServico();
+}

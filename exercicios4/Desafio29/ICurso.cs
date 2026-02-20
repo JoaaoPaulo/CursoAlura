@@ -1,0 +1,5 @@
+interface ICurso
+{
+    ValidarConteudo();
+    PublicarCurso();
+}
