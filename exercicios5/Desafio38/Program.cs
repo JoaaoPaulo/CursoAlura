@@ -1,0 +1,7 @@
+﻿Curso curso = new Curso("Lógica de programação", 2);
+
+curso.Matricular(new Estudante("Rafaela"));
+curso.Matricular(new Estudante("João"));
+curso.Matricular(new Estudante("Mirela"));
+
+curso.ListarMatriculados();
