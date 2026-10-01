@@ -1,0 +1,12 @@
+# Build do .NET
+bin/
+obj/
+
+# Bancos SQLite locais
+*.db
+*.db-shm
+*.db-wal
+
+# Visual Studio
+.vs/
+*.user
